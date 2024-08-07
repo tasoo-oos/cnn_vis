@@ -1,0 +1,10 @@
+dataset
+results
+models
+.idea
+__pycache__
+.ipynb_checkpoints
+layers
+
+best_model.pth
+model_arch*
